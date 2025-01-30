@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|c:\\users\\p0034145\\downloads\\bitachon_server\\bitachon_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|solutionrelative:bitachon_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|c:\\users\\p0034145\\downloads\\bitachon_server\\bitachon_server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|solutionrelative:bitachon_server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|c:\\users\\p0034145\\downloads\\bitachon_server\\bitachon_server\\bl\\productsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|solutionrelative:bitachon_server\\bl\\productsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|c:\\users\\p0034145\\downloads\\bitachon_server\\bitachon_server\\dal\\productsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|solutionrelative:bitachon_server\\dal\\productsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|c:\\users\\p0034145\\downloads\\bitachon_server\\bitachon_server\\bl\\interface\\iproductsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|solutionrelative:bitachon_server\\bl\\interface\\iproductsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|c:\\users\\p0034145\\downloads\\bitachon_server\\bitachon_server\\dal\\interface\\iproductsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|solutionrelative:bitachon_server\\dal\\interface\\iproductsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|c:\\users\\p0034145\\downloads\\bitachon_server\\bitachon_server\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|solutionrelative:bitachon_server\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|c:\\users\\p0034145\\downloads\\bitachon_server\\bitachon_server\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|solutionrelative:bitachon_server\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|c:\\users\\p0034145\\downloads\\bitachon_server\\bitachon_server\\migrations\\20250128112718_productsmigratio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|solutionrelative:bitachon_server\\migrations\\20250128112718_productsmigratio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|c:\\users\\p0034145\\downloads\\bitachon_server\\bitachon_server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|solutionrelative:bitachon_server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|c:\\users\\p0034145\\downloads\\bitachon_server\\bitachon_server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|solutionrelative:bitachon_server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|c:\\users\\p0034145\\downloads\\bitachon_server\\bitachon_server\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BB4D50-F89C-43E8-A049-BD48EC34EB12}|bitachon_server\\bitachon_server.csproj|solutionrelative:bitachon_server\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductsBL.cs",
+              "DocumentMoniker": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\BL\\Interface\\IProductsBL.cs",
+              "RelativeDocumentMoniker": "bitachon_server\\BL\\Interface\\IProductsBL.cs",
+              "ToolTip": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\BL\\Interface\\IProductsBL.cs",
+              "RelativeToolTip": "bitachon_server\\BL\\Interface\\IProductsBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:58:13.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsBL.cs",
+              "DocumentMoniker": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\BL\\ProductsBL.cs",
+              "RelativeDocumentMoniker": "bitachon_server\\BL\\ProductsBL.cs",
+              "ToolTip": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\BL\\ProductsBL.cs",
+              "RelativeToolTip": "bitachon_server\\BL\\ProductsBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:58:00.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "bitachon_server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "bitachon_server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:25:46.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "bitachon_server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\appsettings.Development.json",
+              "RelativeToolTip": "bitachon_server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T16:25:17.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsDAL.cs",
+              "DocumentMoniker": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\DAL\\ProductsDAL.cs",
+              "RelativeDocumentMoniker": "bitachon_server\\DAL\\ProductsDAL.cs",
+              "ToolTip": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\DAL\\ProductsDAL.cs",
+              "RelativeToolTip": "bitachon_server\\DAL\\ProductsDAL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:25:11.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "bitachon_server\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "bitachon_server\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:15:35.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "bitachon_server\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "bitachon_server\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:44:19.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\Program.cs",
+              "RelativeDocumentMoniker": "bitachon_server\\Program.cs",
+              "ToolTip": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\Program.cs*",
+              "RelativeToolTip": "bitachon_server\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:43:56.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductsDAL.cs",
+              "DocumentMoniker": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\DAL\\Interface\\IProductsDAL.cs",
+              "RelativeDocumentMoniker": "bitachon_server\\DAL\\Interface\\IProductsDAL.cs",
+              "ToolTip": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\DAL\\Interface\\IProductsDAL.cs",
+              "RelativeToolTip": "bitachon_server\\DAL\\Interface\\IProductsDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:58:50.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "bitachon_server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\WeatherForecast.cs",
+              "RelativeToolTip": "bitachon_server\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:43:57.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250128112718_ProductsMigratio.cs",
+              "DocumentMoniker": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\Migrations\\20250128112718_ProductsMigratio.cs",
+              "RelativeDocumentMoniker": "bitachon_server\\Migrations\\20250128112718_ProductsMigratio.cs",
+              "ToolTip": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\Migrations\\20250128112718_ProductsMigratio.cs",
+              "RelativeToolTip": "bitachon_server\\Migrations\\20250128112718_ProductsMigratio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:27:21.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\DAL\\Product.cs",
+              "RelativeDocumentMoniker": "bitachon_server\\DAL\\Product.cs",
+              "ToolTip": "C:\\Users\\p0034145\\Downloads\\bitachon_server\\bitachon_server\\DAL\\Product.cs",
+              "RelativeToolTip": "bitachon_server\\DAL\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:12:06.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
