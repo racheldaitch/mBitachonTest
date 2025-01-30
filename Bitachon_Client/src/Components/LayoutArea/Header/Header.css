@@ -1,0 +1,17 @@
+.Header {
+	position: absolute;
+	margin: auto;
+	width: 100%;
+}
+
+.Header h1 {
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+	font-family: "Courier New", Garamond, Serif;
+	font-size: 33px;
+	color: rgb(231, 177, 59);
+	background-color: rgb(83, 79, 79);
+}
+
+
